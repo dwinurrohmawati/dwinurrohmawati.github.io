@@ -1,0 +1,55 @@
+
+/*ini adalah style jumbotron*/
+.jumbotron {
+	background-image: url(img/bgcamera.jpg);
+	background-size: cover;
+	height: 770px;
+	text-align: center;
+}
+.jumbotron .display-4 {
+	color: black;
+	margin-top: 200px;
+}
+.jumbotron hr {
+	border-width:2px;
+	border-color: #000000;
+	width: 570px;
+}
+.jumbotron .btn {
+	background-color: ;
+	border : none;
+	border-radius: 25px;
+	padding-right: 25px;
+	padding-left: 25px;
+	margin-top: 20px; 
+}
+
+/*ini adalah style slider*/
+.carousel-item {
+	height: 670px;
+}
+.carousel-item img {
+	margin-top: 60px;
+}
+.carousel-item .display-4 {
+	margin-top: -440px;
+}
+.carousel-item hr {
+	border-width:2px;
+	border-color: #000000;
+	width: 570px;
+}
+.carousel-item .btn {
+	background-color: #000000;
+	border : none;
+	border-radius: 25px;
+	padding-right: 25px;
+	padding-left: 25px;
+	margin-top: 20px; 
+}
+
+
+/* Desktop Version*/
+@media(min-width:992px){
+
+}
